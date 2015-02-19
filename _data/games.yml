@@ -272,14 +272,14 @@
   releasedate: 
   western: true
 
-- name: Oreshika
+- name: Oreshika Tainted Bloodlines
   about: Unlike the original 1999 PlayStation game, the sequel will have characters fully rendered in 3D.
   gerne: RPG
   image: http://i.imgur.com/tI8ZY7V.jpeg
   gamewebsite: http://www.jp.playstation.com/scej/title/oreshika/2/
   devwebsite: http://playstation.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate: 2015-03-03
   western: true
 
 - name: Persona 4 Dancing All Night
